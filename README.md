@@ -7,12 +7,8 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 ```
 /**************************************************************
 * Class:  CSC-415-02 Fall 2021
-* Name: Edel Jhon Cenario
-* Student ID: 921121224
 * GitHub ID: kurtina09
 * Project: Assignment 3 – Simple Shell
-*
-* File: cenario_edeljhon_HW3_main.c
 *
 * Description: This assignment is about a simple shell that runs on top of the regular command-line interpreter for Linux. 
 *
